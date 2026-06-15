@@ -8,7 +8,7 @@ First topic is RAG
 #RAG
 
 What is RAG?
-
+ 
 RAG does not train GPT.
 
 RAG retrieves relevant company data
